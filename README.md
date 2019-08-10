@@ -46,4 +46,4 @@
   - passwordFontFamily
   - passwordTextColor
             
-    
+    ![Screenshot from 2019-08-10 07-14-18](https://user-images.githubusercontent.com/39293965/62821172-92fe0c00-bb3e-11e9-9c3f-ae36404a14c3.png)
